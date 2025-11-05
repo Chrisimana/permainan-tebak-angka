@@ -1,0 +1,102 @@
+[
+    {
+        "tanggal": "2025-11-05 23:21:11",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            5,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-05 23:21:30",
+        "status": "kalah",
+        "tebakan": [
+            6,
+            2,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-05 23:21:37",
+        "status": "menang",
+        "tebakan": [
+            6,
+            4
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2025-11-05 23:22:07",
+        "status": "menang",
+        "tebakan": [
+            5,
+            3
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2025-11-05 23:22:13",
+        "status": "menang",
+        "tebakan": [
+            7
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:29",
+        "status": "menang",
+        "tebakan": [
+            9
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:36",
+        "status": "menang",
+        "tebakan": [
+            1
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:40",
+        "status": "menang",
+        "tebakan": [
+            3
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-05 23:22:46",
+        "status": "kalah",
+        "tebakan": [
+            5,
+            4,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-05 23:23:06",
+        "status": "menang",
+        "tebakan": [
+            2,
+            5,
+            8
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    }
+]
