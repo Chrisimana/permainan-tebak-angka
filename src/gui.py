@@ -8,7 +8,7 @@ class TebakAngkaApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Permainan Tebak Angka")
-        self.root.geometry("600x500")
+        self.root.geometry("700x500")
         self.root.resizable(False, False)
         self.root.configure(bg="#f0f0f0")
         

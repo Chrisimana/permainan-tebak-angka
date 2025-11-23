@@ -10,8 +10,6 @@
 
 **Permainan tebak angka klasik dengan GUI modern, sistem statistik, dan penyimpanan history**
 
-[Fitur](#-fitur) • [Demo](#-demo) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan) 
-
 </div>
 
 ## 📋 Daftar Isi
@@ -174,28 +172,6 @@ python main.py
 - **Visual History** - Lihat semua tebakan sebelumnya dengan status ✓/✗
 
 ## 📚 Dokumentasi
-
-### Game Flow
-
-```mermaid
-graph TD
-    A[Start Game] --> B[Generate Random Number]
-    B --> C{Player Input}
-    C --> D[Validate Input]
-    D --> E{Check Guess}
-    E -->|Correct| F[Win Game]
-    E -->|Incorrect| G[Decrease Attempts]
-    G --> H{Attempts > 0?}
-    H -->|Yes| I[Give Hint]
-    H -->|No| J[Lose Game]
-    I --> C
-    F --> K[Save History]
-    J --> K
-    K --> L[Update Statistics]
-    L --> M{Play Again?}
-    M -->|Yes| A
-    M -->|No| N[Exit]
-```
 
 ### File Descriptions
 

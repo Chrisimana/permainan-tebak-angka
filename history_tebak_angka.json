@@ -98,5 +98,120 @@
         ],
         "kesempatan_terpakai": 2,
         "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:48:09",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            4,
+            2
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:48:18",
+        "status": "menang",
+        "tebakan": [
+            1
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-23 22:48:27",
+        "status": "kalah",
+        "tebakan": [
+            1,
+            6,
+            3
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:48:29",
+        "status": "menang",
+        "tebakan": [
+            2
+        ],
+        "kesempatan_terpakai": 0,
+        "total_tebakan": 1
+    },
+    {
+        "tanggal": "2025-11-23 22:48:34",
+        "status": "menang",
+        "tebakan": [
+            5,
+            7
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
+    },
+    {
+        "tanggal": "2025-11-23 22:49:34",
+        "status": "kalah",
+        "tebakan": [
+            3,
+            7,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:49:36",
+        "status": "kalah",
+        "tebakan": [
+            3,
+            7,
+            4
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:49:45",
+        "status": "menang",
+        "tebakan": [
+            5,
+            8,
+            6
+        ],
+        "kesempatan_terpakai": 2,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:49:53",
+        "status": "kalah",
+        "tebakan": [
+            6,
+            8,
+            9
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:50:00",
+        "status": "kalah",
+        "tebakan": [
+            10,
+            4,
+            1
+        ],
+        "kesempatan_terpakai": 3,
+        "total_tebakan": 3
+    },
+    {
+        "tanggal": "2025-11-23 22:50:09",
+        "status": "menang",
+        "tebakan": [
+            1,
+            6
+        ],
+        "kesempatan_terpakai": 1,
+        "total_tebakan": 2
     }
 ]
